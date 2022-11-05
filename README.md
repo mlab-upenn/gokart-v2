@@ -1,4 +1,4 @@
-# UPenn GoKart v2 ROS 2 Sample Workspace
+# UPenn GoKart v2 ROS 2 Workspace
 
 A ROS 2 Workspace with the [UPenn GoKart Simulator][gokart-simulation].
 
