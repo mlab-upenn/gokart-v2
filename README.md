@@ -17,7 +17,7 @@ A ROS 2 Workspace with the [UPenn GoKart Simulator][gokart-simulation].
 
 **Note!** Always use a separate terminal windows/tabs for building and running.
 
-In a terminal window/tab where you are building the workspace, you must source **only** the ROS 2 Humble (`source /opt/ros/humble/setup.bash`).
+In a terminal window/tab where you are building the workspace, you must source **only** ROS 2 Humble (`source /opt/ros/humble/setup.bash`).
 
 Then, in other terminal windows/tabs you can source the built workspace (`source install/setup.bash`) and run the programs.
 
